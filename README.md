@@ -1,0 +1,1 @@
+# glosowa__lacznosc
