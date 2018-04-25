@@ -1,0 +1,3 @@
+Typ modelu komórki: ZTE BLADE A602
+Ty systemu: Android 6.0 Marshmallow
+Aplikacja: Dyktafon
