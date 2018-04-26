@@ -1,6 +1,6 @@
 # glosowa__lacznosc
 
-#W ramach tego projektu przeprowadzono analizę rozpoznawania komend głosowych.
+#W ramach tego projektu przeprowadzono analizę rozpoznawania komend głosowych. Wykonano go w trzy osoby (Justyna, Michalina, Marta).
 Razem z innymi osobami zostały wybrane komendy głosowe, które potencjalnie mogłyby zostać użyte do sterowania np. inteligentnego budynku.
 Po podziale komend uzyskano 43 słowa, w tym głoska W powtarzała się 3 krotnie, słowo ALARM oraz GARAŻ po dwa razy, co uwzględniono w wykonanym projekcie. W sumie posiadano nagrania od 10 osób (po 4 razy) z pełnym poprawnym opisem. 
 W pre-processingu dokonano odszumienia sygnału oraz go docięto. 
